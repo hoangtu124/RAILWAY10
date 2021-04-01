@@ -1,7 +1,8 @@
 -- tạo 1 file SQL đặt tên là Testing_System_1
 DROP DATABASE IF EXISTS Testing_System_1;
-CREATE DATABASE Testing_System_1;
-USE Testing_System_1;
+CREATE DATABASE
+ Testing_System_1;
+USE Testing_System_1;  
 
 -- Table1: Department
 CREATE TABLE Department (
