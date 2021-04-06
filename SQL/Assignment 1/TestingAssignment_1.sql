@@ -92,3 +92,7 @@ ExamID                     INT,
 QuestionID                 INT
 );
 
+-- Thêm  IF NOT EXISTS cho CREATE TABLE và IF EXISTS cho DROP TABLE cho đủ, ( tạo 1 bản chưa có , xóa 1 bản đã tồn tại ) 
+-- AFTER TABLE  Department CHANGE COLUMN TÊN BẢNG = TÊN BẢNG SAU KHI ĐỔI + ĐỊNH DẠNG SAU KHI THAY ĐỔI ( NẾU CÓ)
+
+-- anh có mẹo làm hư người 
